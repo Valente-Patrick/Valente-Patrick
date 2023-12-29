@@ -13,7 +13,7 @@
 
    Como sempre fui muito curioso desde pequeno, querendo saber como as coisas funcionavam de verdade, e sempre gostei muito de tecnologias, eu sempre tive uma vontade de atuar na área de tecnologia, porém sem incentivo algum para isso, na pandemia eu pesquisei bastante e decidi que já estava na hora de fazer algo que eu realmente gostasse e aqui estou, pronto para adquirir novos conhecimentos e me tornar um ótimo profissional na área que gosto.
    
- Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e fazedo alguns cursos em paralelo com a faculdade, para adquirir todas as skills necessárias para entrar no mercado de trabalho e me tornar um Dev Full Stack.
+ Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e fazedo alguns cursos em paralelo com a faculdade, para adquirir todas as skills necessárias para entrar no mercado de trabalho e me tornar um Dev.
 </p>
 
 <p align="left">
