@@ -13,17 +13,15 @@
 
    Como sempre fui muito curioso desde pequeno, querendo saber como as coisas funcionavam de verdade, e sempre gostei muito de tecnologias, eu sempre tive uma vontade de atuar na área de tecnologia, porém sem incentivo algum para isso, na pandemia eu pesquisei bastante e decidi que já estava na hora de fazer algo que eu realmente gostasse e aqui estou, pronto para adquirir novos conhecimentos e me tornar um ótimo profissional na área que gosto.
    
- Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e fazedo alguns cursos em paralelo com a faculdade, para adquirir todas as skills necessárias para entrar no mercado de trabalho e me tornar um Dev.
+ Atualmente estou cursando Análise e Desenvolvimento de Sistemas, e fazedo alguns cursos em paralelo com a faculdade, para adquirir todas as skills necessárias para entrar no mercado de trabalho e me tornar um excelente prefissional.
 </p>
 
 <p align="left">
 
   ## Linguagens que estou estudando no momento.
 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+  
 </p>
 
 <p align="left">
