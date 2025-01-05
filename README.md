@@ -9,7 +9,7 @@
 
 # Olá, meu nome é <strong>Patrick Valente</strong>!
 
-  Eu tenho 24 anos e sou do interior do RJ nascido e criado na cidade de Resende e, estou em transição de carreira, comecei na faculdade de Direito mas em nenhum momento eu fui realmente interessado pelo curso, mesmo fazendo estágio na procuradoria geral da cidade em que moro e posteriormente na Defensoria Pública do Estado do RJ, pelo contrário, este período atuando na área jurídica serviu apenas para eu ter certeza de que isso não era o que eu queria para a minha vida.
+  Eu tenho 25 anos e sou do interior do RJ nascido e criado na cidade de Resende e, estou em transição de carreira, comecei na faculdade de Direito mas em nenhum momento eu fui realmente interessado pelo curso, mesmo fazendo estágio na procuradoria geral da cidade em que moro e posteriormente na Defensoria Pública do Estado do RJ, pelo contrário, este período atuando na área jurídica serviu apenas para eu ter certeza de que isso não era o que eu queria para a minha vida.
 
    Como sempre fui muito curioso desde pequeno, querendo saber como as coisas funcionavam de verdade, e sempre gostei muito de tecnologias, eu sempre tive uma vontade de atuar na área de tecnologia, porém sem incentivo algum para isso, na pandemia eu pesquisei bastante e decidi que já estava na hora de fazer algo que eu realmente gostasse e aqui estou, pronto para adquirir novos conhecimentos e me tornar um ótimo profissional na área que gosto.
    
